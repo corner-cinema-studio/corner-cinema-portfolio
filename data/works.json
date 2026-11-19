@@ -315,5 +315,17 @@
     "description": "介紹照片回顧服務的直式短片，給手機看的比例。",
     "disclosure": "畫面裡的照片是程式畫的插畫，並非真實照片。",
     "added": "2026-11-12"
+  },
+  {
+    "id": "yt-l9ny80jqxfg",
+    "title": "At Night, the Old Press Builds What You Gave Up",
+    "subtitle": "其他作品・1 分 21 秒",
+    "category": "other",
+    "label": "其他作品",
+    "poster": "assets/yt-l9ny80jqxfg.jpg",
+    "description": "熄燈以後，那台沖床做你放下的那件事",
+    "added": "2026-11-19",
+    "duration": "1 分 21 秒",
+    "youtubeId": "l9Ny80JQxfg"
   }
 ]
