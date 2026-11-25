@@ -396,5 +396,28 @@
     "added": "2026-11-22",
     "duration": "1 分 17 秒",
     "youtubeId": "nb_9CaMz9bs"
+  },
+  {
+    "id": "yt-xwnjedh38dm",
+    "title": "The Fifth Light Came Back",
+    "subtitle": "其他作品",
+    "category": "other",
+    "label": "其他作品",
+    "poster": "assets/yt-xwnjedh38dm.jpg",
+    "description": "第五點亮了",
+    "added": "2026-11-25",
+    "youtubeId": "xWnJEDH38DM"
+  },
+  {
+    "id": "yt-mhro5apmtau",
+    "title": "The Missing Star on the Wall",
+    "subtitle": "其他作品・1 分 17 秒",
+    "category": "other",
+    "label": "其他作品",
+    "poster": "assets/yt-mhro5apmtau.jpg",
+    "description": "牆上少了一顆星｜Night Shift Dreams Ep.5",
+    "added": "2026-11-25",
+    "duration": "1 分 17 秒",
+    "youtubeId": "mhRo5apMtaU"
   }
 ]
